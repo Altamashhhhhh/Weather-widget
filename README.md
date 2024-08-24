@@ -19,8 +19,12 @@ Welcome to the Weather Forecast App! This application allows users to enter any 
 3. View current weather details such as temperature, humidity, and wind speed. 🌡️💧💨
 4. Click on the refresh icon to update information if needed. 🔄
 
-## 🌐 Live Demo
-Check out the live version of the app here. 🌍
+## 🚀 Live Demo
+
+Check out the live demo of this project by clicking the link below:
+
+[👉 Live Demo](https://weather-widget-beryl.vercel.app/) 🌐
+
 
 ## 💻 Technologies Used
 - **React**: For building the user interface. ⚛️
